@@ -28,3 +28,13 @@
 * ORM seperti Eloquent (di Laravel)
 
 ---
+
+### 4. Server dan Deployment
+
+* Apache atau Nginx
+* Hosting dan deployment (shared hosting atau VPS)
+* Akses SSH dan FTP
+* Pengaturan domain dan SSL
+* Cron job (untuk tugas terjadwal)
+
+---
