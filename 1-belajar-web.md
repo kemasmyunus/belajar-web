@@ -10,3 +10,13 @@
 * Composer untuk manajemen library
 
 ---
+
+### 2. Frontend
+
+* HTML dan CSS
+* JavaScript dasar (DOM, event, AJAX)
+* Framework/library: Vue.js atau React (jika perlu)
+* CSS framework: Bootstrap atau Tailwind
+* Responsive design (mobile friendly)
+
+---
