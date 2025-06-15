@@ -22,6 +22,15 @@
 > * [ ] Migration & Seeder
 > * [ ] Model & Relasi (One to Many, Many to Many)
 > * [ ] Query Builder & Eloquent
+> 
+> 3. Fitur Penting
+> * [ ] Form Request Validation
+> * [ ] Session & Flash Message
+> * [ ] Authentication (Laravel Breeze/Jetstream)
+> * [ ] Middleware
+> * [ ] File Upload
+>
+
 
 
 * Buat dan konsumsi REST API
