@@ -30,7 +30,14 @@
 > * [ ] Middleware
 > * [ ] File Upload
 >
-
+> 4. Tingkat Lanjut
+> * [ ] REST API dengan Laravel
+> * [ ] Laravel Resource (API Resource)
+> * [ ] Laravel Policy & Gate (Authorization)
+> * [ ] Job & Queue (Antrian)
+> * [ ] Event & Listener
+> * [ ] Testing (Feature & Unit Test)
+>
 
 
 * Buat dan konsumsi REST API
