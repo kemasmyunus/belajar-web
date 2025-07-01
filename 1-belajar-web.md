@@ -100,11 +100,3 @@
 * GitHub atau GitLab
 
 ---
-
-### 8. Tools dan Soft Skill
-
-* Memahami kebutuhan user/client
-* Dokumentasi proyek
-* Gunakan tools kolaborasi seperti Trello atau Notion
-
----
