@@ -85,11 +85,3 @@
 * API testing dengan Postman
 
 ---
-
-### 6. Keamanan
-
-* Proteksi terhadap SQL Injection, XSS, CSRF
-* Hashing password
-* Menggunakan HTTPS
-
----
