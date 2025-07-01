@@ -93,10 +93,3 @@
 * Menggunakan HTTPS
 
 ---
-
-### 7. Version Control
-
-* Git (commit, push, pull, branch)
-* GitHub atau GitLab
-
----
