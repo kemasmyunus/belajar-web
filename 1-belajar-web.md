@@ -77,11 +77,3 @@
 * Cron job (untuk tugas terjadwal)
 
 ---
-
-### 5. Testing dan Debugging
-
-* Debugging dengan tools seperti Laravel Debugbar
-* Testing dengan PHPUnit
-* API testing dengan Postman
-
----
