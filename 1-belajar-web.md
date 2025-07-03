@@ -59,11 +59,3 @@
 * Responsive design (mobile friendly)
 
 ---
-
-### 3. Database
-
-* SQL dasar: SELECT, INSERT, UPDATE, DELETE, JOIN
-* MySQL atau PostgreSQL
-* ORM seperti Eloquent (di Laravel)
-
----
