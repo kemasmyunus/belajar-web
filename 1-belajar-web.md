@@ -41,11 +41,3 @@
 >  5. Deployment
 > * [ ] Optimasi `config:cache`, `route:cache`, dll
 > * [ ] Upload ke hosting/VPS (contoh: Laravel Forge, shared hosting)
-
-
-* Buat dan konsumsi REST API
-* Autentikasi dan otorisasi (login, register, middleware)
-* Validasi input dan error handling
-* Composer untuk manajemen library
-
----
