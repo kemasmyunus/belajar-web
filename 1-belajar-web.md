@@ -37,7 +37,3 @@
 > * [ ] Job & Queue (Antrian)
 > * [ ] Event & Listener
 > * [ ] Testing (Feature & Unit Test)
->
->  5. Deployment
-> * [ ] Optimasi `config:cache`, `route:cache`, dll
-> * [ ] Upload ke hosting/VPS (contoh: Laravel Forge, shared hosting)
