@@ -18,8 +18,3 @@
 > * Request dan response
 > * Konfigurasi '.env' dan helper config
 > 
-> 2. Database & Eloquent ORM
-> * [ ] Migration & Seeder
-> * [ ] Model & Relasi (One to Many, Many to Many)
-> * [ ] Query Builder & Eloquent
-> 
