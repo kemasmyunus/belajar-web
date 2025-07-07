@@ -9,12 +9,3 @@
 > * Percabangan: if, else, switch
 > * Perulangan: for, while, foreach
 > * Array: indexed & associative
-
-* Framework PHP:
-> 1. Dasar Laravel :
-> * Struktur folder laravel
-> * Routing ('routes/web.php')
-> * Controller dan view (blade)
-> * Request dan response
-> * Konfigurasi '.env' dan helper config
-> 
